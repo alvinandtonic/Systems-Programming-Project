@@ -1,0 +1,47 @@
+Collaborators:
+
+	Byung Woong Ko
+	Jeffrey Song
+
+
+
+
+Functions/ Code Implemented:
+
+	Byung Woong Ko
+		deck.c
+			shuffle
+			deal_player_cards
+		
+		player.c
+			add_card
+			check_add_book
+			transfer_cards
+			game_over
+			computer_play
+		
+		gofish.c
+			main
+			game_loop
+			game_end
+			print_status
+
+
+
+	Jeffrey Song
+		deck.c
+			next_card
+			deck_size
+		
+		player.c
+			remove_card
+			search
+			reset_player
+			user_play
+		
+		gofish.c
+			main
+			game_start
+			pR
+			print_hand
+			print_book
